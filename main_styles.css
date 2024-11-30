@@ -178,17 +178,17 @@ h1 { font-size: 32px }
  body.wsite-checkout-page.nav-open .wrapper .header-wrap .nav-wrap, body.wsite-native-mobile-editor.nav-open .wrapper .header-wrap .nav-wrap { left: 0; }
  .wrapper { min-height: initial; }
  .container { width: 100%; padding: 0 1.5em; box-sizing: border-box; }
- body.nav-open .wrapper { right: 70%; }
- body.nav-open .wrapper .header-wrap .nav-wrap { left: -70%; }
+ body.nav-open .wrapper { right: 15rem; }
+ body.nav-open .wrapper .header-wrap .nav-wrap { left: -15rem; }
  body.nav-open #footer-wrap { right: 70%; }
- body.nav-open .navmobile-wrapper { right: -30%; }
+ body.nav-open .navmobile-wrapper { right: calc(-100% + 15rem); }
  body.nav-open #wsite-mini-cart .wsite-cart-bottom { bottom: -70px; }
  .header-wrap #logo { display: table-cell; vertical-align: middle; width: 100%; font-size: 2em; text-align: center; }
  .header-wrap #logo #wsite-title { font-size: inherit !important; }
  .header-wrap .wsite-logo { padding: 0 50px; }
  .header-wrap #logo img { max-height: 40px; }
  .header-wrap .search { display: none; }
- .header-wrap .nav-wrap { position: fixed; display: table; background: #fff; top: 0; left: 0; z-index: 15; height: 55px; -webkit-transition: all 610ms cubic-bezier(0,0.8,0.55,1); -moz-transition: all 610ms cubic-bezier(0,0.8,0.55,1); -ms-transition: all 610ms cubic-bezier(0,0.8,0.55,1); -o-transition: all 610ms cubic-bezier(0,0.8,0.55,1); transition: all 610ms cubic-bezier(0,0.8,0.55,1); }
+ .header-wrap .nav-wrap { position: fixed; display: table; background: #fff; top: 0; left: 0; z-index: 15; height: 55px; -webkit-transition: all 400ms cubic-bezier(0,0.8,0.55,1); -moz-transition: all 400ms cubic-bezier(0,0.8,0.55,1); -ms-transition: all 400ms cubic-bezier(0,0.8,0.55,1); -o-transition: all 400ms cubic-bezier(0,0.8,0.55,1); transition: all 400ms cubic-bezier(0,0.8,0.55,1); }
  .header-wrap .nav-wrap ul { padding: 0 4em; }
  .header-wrap label.hamburger { position: absolute; top: 0; right: 0; display: block; width: 30px; height: 30px; padding: 10px; cursor: pointer; }
  .header-wrap label.hamburger span, .header-wrap label.hamburger span:before, .header-wrap label.hamburger span:after { position: relative; display: block; width: 20px; height: 2px; background: black; content: ''; }
@@ -196,7 +196,7 @@ h1 { font-size: 32px }
  .header-wrap label.hamburger span:before { top: -8px; }
  .header-wrap label.hamburger span:after { bottom: -6px; }
  .menu { display: none; }
- .navmobile-wrapper { position: fixed; top: 0; right: -100%; z-index: 5; overflow-y: scroll; display: block; width: 100%; height: 100%; background: #856c3b; -webkit-transition: all 610ms cubic-bezier(0,0.8,0.55,1); -moz-transition: all 610ms cubic-bezier(0,0.8,0.55,1); -ms-transition: all 610ms cubic-bezier(0,0.8,0.55,1); -o-transition: all 610ms cubic-bezier(0,0.8,0.55,1); transition: all 610ms cubic-bezier(0,0.8,0.55,1); }
+ .navmobile-wrapper { position: fixed; top: 0; right: -100%; z-index: 5; overflow-y: scroll; display: block; width: 100%; height: 100%; background: #856c3b; -webkit-transition: all 400ms cubic-bezier(0,0.8,0.55,1); -moz-transition: all 400ms cubic-bezier(0,0.8,0.55,1); -ms-transition: all 400ms cubic-bezier(0,0.8,0.55,1); -o-transition: all 400ms cubic-bezier(0,0.8,0.55,1); transition: all 400ms cubic-bezier(0,0.8,0.55,1); }
  #navmobile { padding: 18px 30px; }
  #navmobile ul { list-style-type: none; }
  #navmobile li a { position: relative; display: inline-block; margin-bottom: 15px; color: white; border-bottom: 2px solid transparent; text-transform: uppercase; letter-spacing: 0.03em; font-family: 'Lato', sans-serif; font-size: 15px; font-weight: 700; line-height: 24px; -webkit-transition: border-bottom 200ms ease-in; -moz-transition: border-bottom 200ms ease-in; -ms-transition: border-bottom 200ms ease-in; -o-transition: border-bottom 200ms ease-in; transition: border-bottom 200ms ease-in; }
@@ -244,7 +244,7 @@ h1 { font-size: 32px }
  #main-wrap { background: #fff; }
  #main-wrap .container { padding: 25px 2em; }
  .wsite-search-button { background: url(theme/images/searche65d.svg?1521633071) no-repeat center center; }
- #footer-wrap { position: relative; right: 0; -webkit-transition: all 610ms cubic-bezier(0,0.8,0.55,1); -moz-transition: all 610ms cubic-bezier(0,0.8,0.55,1); -ms-transition: all 610ms cubic-bezier(0,0.8,0.55,1); -o-transition: all 610ms cubic-bezier(0,0.8,0.55,1); transition: all 610ms cubic-bezier(0,0.8,0.55,1); }
+ #footer-wrap { position: relative; right: 0; -webkit-transition: all 400ms cubic-bezier(0,0.8,0.55,1); -moz-transition: all 400ms cubic-bezier(0,0.8,0.55,1); -ms-transition: all 400ms cubic-bezier(0,0.8,0.55,1); -o-transition: all 400ms cubic-bezier(0,0.8,0.55,1); transition: all 400ms cubic-bezier(0,0.8,0.55,1); }
  #footer-wrap div.paragraph { font-size: 1em; }
  #footer-wrap p { font-size: 1em; }
  .wsite-social, .wsite-editor .wsite-social { white-space: normal; }
