@@ -1,6 +1,6 @@
 <script>
-	import { page } from "$app/stores";
-	import {base} from "$app/paths"
+	import { page } from '$app/stores';
+	import { base } from '$app/paths';
 
 	let { href, text } = $props();
 

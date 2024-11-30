@@ -63,7 +63,7 @@
 							<br />
 						</div>
 						<div class="paragraph" style="text-align:left;">
-							Op al mijn diensten zijn mijn&nbsp;<a href={base + "/Algemene_voorwaarden_2018.pdf"}
+							Op al mijn diensten zijn mijn&nbsp;<a href={base + '/Algemene_voorwaarden_2018.pdf'}
 								>algemene voorwaarden</a
 							> van toepassing.
 						</div>
