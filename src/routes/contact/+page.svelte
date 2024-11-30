@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import Banner from '$lib/Banner.svelte';
 
 	function goToMap() {
@@ -23,7 +24,7 @@
 
 <svelte:head>
 	<title>Contact - Marion Plagge</title>
-	<meta property="og:url" content="contact" />
+	<meta property="og:url" content="/contact" />
 	<meta property="og:title" content="Contact" />
 	<meta
 		property="og:description"
@@ -35,7 +36,7 @@
 	/>
 </svelte:head>
 
-<Banner image="images/background-images/contact_bg.jpg" title="CONTACT" />
+<Banner image="{base}/images/background-images/contact_bg.jpg" title="CONTACT" />
 
 <div id="wsite-content" class="wsite-elements wsite-not-footer">
 	<div class="wsite-section-wrap">
@@ -157,14 +158,14 @@
 						</div>
 						<div class="wsite-spacer" style="height:37px;"></div>
 						<div class="wsite-map" style="text-align: center;">
+							<!-- svelte-ignore a11y_click_events_have_key_events -->
+							<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 							<img
 								onclick={goToMap}
-								src="images/map.jpg?1521213444"
+								src="{base}/images/map.jpg?1521213444"
 								alt="Map"
 								style="width:auto;max-width:400px; display: block; margin: auto; cursor: pointer; width: 50vh;"
 							/>
-							<!-- <iframe allowtransparency="true" frameborder="0" scrolling="no"
-											style="width: 100%; height: 350px; margin-top: 10px; margin-bottom: 10px;"											src="http://www.weebly.com/weebly/apps/generateMap.php?map=google&amp;elementid=641166229511809768&amp;ineditor=0&amp;control=3&amp;width=auto&amp;height=350px&amp;overviewmap=0&amp;scalecontrol=0&amp;typecontrol=0&amp;zoom=10&amp;long=6.2897980999999845&amp;lat=52.9060569&amp;domain=www&amp;point=1&amp;align=1&amp;reseller=false"></iframe> -->
 						</div>
 						<div class="wsite-spacer" style="height:37px;"></div>
 					</div>
@@ -173,3 +174,7 @@
 		</div>
 	</div>
 </div>
+
+
+<!-- <iframe allowtransparency="true" frameborder="0" scrolling="no"
+				style="width: 100%; height: 350px; margin-top: 10px; margin-bottom: 10px;"											src="http://www.weebly.com/weebly/apps/generateMap.php?map=google&amp;elementid=641166229511809768&amp;ineditor=0&amp;control=3&amp;width=auto&amp;height=350px&amp;overviewmap=0&amp;scalecontrol=0&amp;typecontrol=0&amp;zoom=10&amp;long=6.2897980999999845&amp;lat=52.9060569&amp;domain=www&amp;point=1&amp;align=1&amp;reseller=false"></iframe> -->

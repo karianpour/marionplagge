@@ -5,7 +5,7 @@
 
 <svelte:head>
 	<title>tarieven - Marion Plagge</title>
-	<meta property="og:url" content="tarieven" />
+	<meta property="og:url" content="/tarieven" />
 	<meta property="og:title" content="tarieven" />
 	<meta
 		property="og:description"
@@ -16,7 +16,7 @@
 		content="tarieven en algemene voorwaarden voor behandeling van uw paard"
 	/>
 </svelte:head>
-<Banner title="TARIEVEN" image="images/background-images/tarieven_tg_2.jpg" />
+<Banner title="TARIEVEN" image="{base}/images/background-images/tarieven_tg_2.jpg" />
 <div id="wsite-content" class="wsite-elements wsite-not-footer">
 	<div class="wsite-section-wrap">
 		<div class="wsite-section wsite-body-section wsite-background-2 wsite-custom-background">

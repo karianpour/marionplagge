@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import Banner from '$lib/Banner.svelte';
 </script>
 
@@ -15,7 +16,7 @@
 		content="Paarden kunnen ons niet in woorden vertellen hoe ze zich voelen. Wanneer een paard een ongemak voelt of pijn heeft, kan het ons dit alleen door gedrag duidelijk maken. Paarden zijn door hun aard heel..."
 	/>
 </svelte:head>
-<Banner title="WAAROM THERAPIE" image="images/background-images/waarom-therapie_bg.jpg" />
+<Banner title="WAAROM THERAPIE" image="{base}/images/background-images/waarom-therapie_bg.jpg" />
 
 <div id="wsite-content" class="wsite-elements wsite-not-footer">
 	<div class="wsite-section-wrap">

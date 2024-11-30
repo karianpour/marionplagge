@@ -34,25 +34,30 @@
 			<div id="logo">
 				<span class="wsite-logo">
 					<a href={base + '/'}>
-						<img src="images/MarionPlaggejan_logo_s.jpg?1519046935" alt="Marion Plagge" />
+						<img src="{base}/images/MarionPlaggejan_logo_s.jpg" alt="Marion Plagge" />
 					</a>
 				</span>
 			</div>
+			<!-- svelte-ignore a11y_click_events_have_key_events -->
+			<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
+			<!-- svelte-ignore a11y_label_has_associated_control -->
 			<label onclick={showMenu} class="hamburger"><span></span></label>
 			<div class="menu">
 				<div class="container">
 					<div class="search"></div>
 					<ul class="wsite-menu-default">
 						<MenuItem href="/" text="craniosacraal" />
-						<MenuItem href="/zouttherapie" text="zouttherapie" />
-						<MenuItem href="/over-marion" text="over marion" />
+						<MenuItem href="/zouttherapie/" text="zouttherapie" />
+						<MenuItem href="/over-marion/" text="over marion" />
 						<!-- <MenuItem href="/waarom-therapie" text="waarom therapie" /> -->
-						<MenuItem href="/tarieven" text="tarieven" />
-						<MenuItem href="/contact" text="contact" />
+						<MenuItem href="/tarieven/" text="tarieven" />
+						<MenuItem href="/contact/" text="contact" />
 					</ul>
 				</div>
 			</div>
 		</div>
+		<!-- svelte-ignore a11y_click_events_have_key_events -->
+		<!-- svelte-ignore a11y_no_static_element_interactions -->
 		<div class="banner-wrap" onclick={hideMenu}>
 			<div class="wsite-elements wsite-not-footer wsite-header-elements">
 				<div class="wsite-section-wrap">
@@ -79,6 +84,8 @@
 			</div>
 		</div>
 	</div>
+	<!-- svelte-ignore a11y_click_events_have_key_events -->
+	<!-- svelte-ignore a11y_no_static_element_interactions -->
 	<div id="main-wrap" onclick={hideMenu}>
 		{@render children()}
 		<div class="sticky-footer-push">
@@ -86,6 +93,8 @@
 		</div>
 	</div>
 	<!--/.wrapper-->
+	<!-- svelte-ignore a11y_click_events_have_key_events -->
+	<!-- svelte-ignore a11y_no_static_element_interactions -->
 	<div id="footer-wrap" onclick={hideMenu}>
 		<div class="container"></div>
 	</div>
@@ -93,11 +102,11 @@
 		<div id="navmobile" class="nav">
 			<ul class="wsite-menu-default">
 				<MenuItem href="/" text="craniosacraal" />
-				<MenuItem href="/zouttherapie" text="zouttherapie" />
-				<MenuItem href="/over-marion" text="over marion" />
+				<MenuItem href="/zouttherapie/" text="zouttherapie" />
+				<MenuItem href="/over-marion/" text="over marion" />
 				<!-- <MenuItem href="/waarom-therapie" text="waarom therapie" /> -->
-				<MenuItem href="/tarieven" text="tarieven" />
-				<MenuItem href="/contact" text="contact" />
+				<MenuItem href="/tarieven/" text="tarieven" />
+				<MenuItem href="/contact/" text="contact" />
 			</ul>
 		</div>
 	</div>

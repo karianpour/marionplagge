@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import Banner from '$lib/Banner.svelte';
 </script>
 
@@ -17,7 +18,7 @@
 	/>
 </svelte:head>
 
-<Banner title="ZOUTTHERAPIE" image="images/background-images/zouttherapie_bg.jpg" />
+<Banner title="ZOUTTHERAPIE" image="{base}/images/background-images/zouttherapie_bg.jpg" />
 <div id="wsite-content" class="wsite-elements wsite-not-footer">
 	<div class="wsite-section-wrap">
 		<div class="wsite-section wsite-body-section wsite-background-7 wsite-custom-background">
