@@ -1,0 +1,1 @@
+import{w as r}from"./index.DkXlsR2L.js";let s=r({title:"",sub_title:"",image:""});function n({title:t,sub_title:e,image:a}){s.update(i=>({...i,title:t||"",sub_title:e||"",image:a||""}))}export{s as b,n as s};
