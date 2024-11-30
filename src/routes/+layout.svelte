@@ -46,7 +46,7 @@
 						<MenuItem href="/" text="craniosacraal" />
 						<MenuItem href="/zouttherapie" text="zouttherapie" />
 						<MenuItem href="/over-marion" text="over marion" />
-						<MenuItem href="/waarom-therapie" text="waarom therapie" />
+						<!-- <MenuItem href="/waarom-therapie" text="waarom therapie" /> -->
 						<MenuItem href="/tarieven" text="tarieven" />
 						<MenuItem href="/contact" text="contact" />
 					</ul>
@@ -95,7 +95,7 @@
 				<MenuItem href="/" text="craniosacraal" />
 				<MenuItem href="/zouttherapie" text="zouttherapie" />
 				<MenuItem href="/over-marion" text="over marion" />
-				<MenuItem href="/waarom-therapie" text="waarom therapie" />
+				<!-- <MenuItem href="/waarom-therapie" text="waarom therapie" /> -->
 				<MenuItem href="/tarieven" text="tarieven" />
 				<MenuItem href="/contact" text="contact" />
 			</ul>
