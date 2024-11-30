@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Contact - Marion Plagge</title>
+    <meta property="og:site_name" content="Marion Plagge">
+    <link rel="icon" href="images/published/favicon.png" type="image/png">
+    <meta property="og:url" content="contact.html">
+    <meta property="og:image" itemprop="image" content="https://bolt6.home.xs4all.nl/test/images/marionprofielfotoshaki.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Contact">
+    <meta property="og:description" content="Marion Plagge, Wateren 10, 8438 SB Wateren, 06-1120 1579, info@marionplagge.nl">
+    <meta name="description" content="Marion Plagge, Wateren 10, 8438 SB Wateren, 06-1120 1579, info@marionplagge.nl">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="files/main_stylee65d.css?1521633077"
+      title="wsite-theme-css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&amp;subset=latin,latin-ext&amp;display=swap"
+      rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="style.css?1521633072">
+  </head>
+  <body class="header-page  wsite-theme-light  wsite-page-tarieven">
+    <div class="wrapper">
+      <div class="header-wrap">
+        <div class="nav-wrap">
+          <div id="logo"><span class="wsite-logo"> <a href="index.html"> <img
+                  src="images/MarionPlaggejan_logo_s.jpg?1519046935" alt="Marion Plagge">
+              </a> </span></div>
+          <label onclick="showMenu()" class="hamburger"><span></span></label>
+          <div class="menu">
+            <div class="container">
+              <div class="search"></div>
+              <ul class="wsite-menu-default">
+                <li class="wsite-menu-item-wrap"> <a href="index.html" class="wsite-menu-item">
+                    home </a> </li>
+                <li class="wsite-menu-item-wrap"> <a href="craniosacraal.html"
+                    class="wsite-menu-item"> craniosacraal </a> </li>
+                <li class="wsite-menu-item-wrap"> <a href="zouttherapie.html" class="wsite-menu-item">
+                    zouttherapie </a> </li>
+                <li class="wsite-menu-item-wrap"> <a href="over-marion.html" class="wsite-menu-item">
+                    over marion </a> </li>
+                <li class="wsite-menu-item-wrap" style="display: none;"> <a href="artikelen.html"
+                    class="wsite-menu-item"> artikelen </a> </li>
+                <li class="wsite-menu-item-wrap"> <a href="tarieven.html" class="wsite-menu-item">
+                    tarieven </a> </li>
+                <li class="wsite-menu-item-wrap active_menu"> <a href="contact.html"
+                    class="wsite-menu-item"> Contact </a> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="banner-wrap" onclick="hideMenu()">
+        <div class="wsite-elements wsite-not-footer wsite-header-elements">
+          <div class="wsite-section-wrap">
+            <div class="wsite-section wsite-header-section wsite-section-bg-image"
+              style="background-image: url('images/background-images/contact_bg.jpg') ;background-repeat: no-repeat ;background-position: 50.00% 0.00% ;background-size: 100% ;background-color: transparent ;background-size: cover;">
+              <div class="wsite-section-content">
+                <div class="container">
+                  <div class="banner">
+                    <div class="wsite-section-elements">
+                      <div class="paragraph" style="text-align:center;">
+                        <h1>CONTACT</h1>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/.header-wrap-->
+    <div id="main-wrap" onclick="hideMenu()">
+      <div id="wsite-content" class="wsite-elements wsite-not-footer">
+        <div class="wsite-section-wrap">
+          <div class="wsite-section wsite-body-section wsite-section-bg-image wsite-background-3 wsite-custom-background">
+            <div class="wsite-section-content">
+              <div class="container">
+                <div class="wsite-section-elements">
+                  <div class="paragraph" style="text-align:center;"> <font> <span>
+                        <strong> MARION PLAGGE<br>
+                          craniosacraaltherapie voor paarden<br>
+                        </strong> <a onclick="goToMap()" style="cursor: pointer;">
+                          Wateren 10 <br>
+                          8438 SB Wateren <br>
+                        </a> <a href="tel:06-1120%201579">06-1120 1579</a> <br>
+                        <a href="mailto:info@marionplagge.nl" target="_system">info@marionplagge.nl</a>
+                        <br>
+                        KvKnr. 7197 7597 <br>
+                        BTWnr. </span></font><font><span>
+                        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+                        <span class="cell">NL001661848B65</span> <br>
+                        <br>
+                        <a href="https://api.whatsapp.com/send?phone=+31611201579">Neem
+                          contact met me op via Whatsapp</a> </span> </font> <br>
+                  </div>
+                  <div class="wsite-spacer" style="height:37px;"></div>
+                  <div class="wsite-map" style="text-align: center;"> <img onclick="goToMap()"
+                      src="images/map.jpg?1521213444" alt="Map" style="width:auto;max-width:400px; display: block; margin: auto; cursor: pointer; width: 50vh;">
+                    <!-- <iframe allowtransparency="true" frameborder="0" scrolling="no"
+											style="width: 100%; height: 350px; margin-top: 10px; margin-bottom: 10px;"											src="http://www.weebly.com/weebly/apps/generateMap.php?map=google&amp;elementid=641166229511809768&amp;ineditor=0&amp;control=3&amp;width=auto&amp;height=350px&amp;overviewmap=0&amp;scalecontrol=0&amp;typecontrol=0&amp;zoom=10&amp;long=6.2897980999999845&amp;lat=52.9060569&amp;domain=www&amp;point=1&amp;align=1&amp;reseller=false"></iframe> -->
+                  </div>
+                  <div class="wsite-spacer" style="height:37px;"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="sticky-footer-push">
+      <!--here you can say some thing in the footer--> </div>
+    <!--/.wrapper-->
+    <div id="footer-wrap" onclick="hideMenu()">
+      <div class="container"> </div>
+    </div>
+    <div class="navmobile-wrapper">
+      <div id="navmobile" class="nav">
+        <ul class="wsite-menu-default">
+          <li class="wsite-menu-item-wrap"> <a href="index.html" class="wsite-menu-item">
+              home </a> </li>
+          <li class="wsite-menu-item-wrap"> <a href="craniosacraal.html" class="wsite-menu-item">
+              craniosacraal </a> </li>
+          <li class="wsite-menu-item-wrap"> <a href="zouttherapie.html" class="wsite-menu-item">
+              zouttherapie </a> </li>
+          <li class="wsite-menu-item-wrap"> <a href="over-marion.html" class="wsite-menu-item">
+              over marion </a> </li>
+          <li class="wsite-menu-item-wrap" style="display: none;"> <a href="artikelen.html"
+              class="wsite-menu-item"> artikelen </a> </li>
+          <li class="wsite-menu-item-wrap"> <a href="tarieven.html" class="wsite-menu-item">
+              tarieven </a> </li>
+          <li class="wsite-menu-item-wrap active_menu"> <a href="contact.html"
+              class="wsite-menu-item"> Contact </a> </li>
+        </ul>
+      </div>
+    </div>
+    <script async="" defer="defer" type="text/javascript" src="files/theme/custom_k1.js?1516662007"></script>
+    <script type="text/javascript">
+
+		function goToMap() {
+			if (navigator.userAgent.match(/Android/i)
+				|| navigator.userAgent.match(/webOS/i)
+				|| navigator.userAgent.match(/BlackBerry/i)
+				|| navigator.userAgent.match(/Windows Phone/i)
+			) {
+				window.open("google.navigation:q=52.905888,6.289712&mode=d", '_system');
+			} else if (
+				navigator.userAgent.match(/iPhone/i)
+				|| navigator.userAgent.match(/iPad/i)
+				|| navigator.userAgent.match(/iPod/i)
+			) {
+				window.open("https://maps.apple.com/?daddr=52.905888,6.289712&ll=", '_system');
+			} else {
+				window.open("https://maps.google.com/maps?daddr=52.905888,6.289712&ll=", '_system');
+			}
+		}
+
+	</script>
+  </body>
+</html>
