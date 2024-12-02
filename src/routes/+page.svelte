@@ -4,9 +4,9 @@
 </script>
 
 <svelte:head>
-	<title>Marion Plagge - craniosacraal</title>
+	<title>Marion Plagge - Craniosacraaltherapie voor paarden</title>
 	<meta property="og:url" content="/" />
-	<meta property="og:title" content="Marion Plagge - craniosacraal" />
+	<meta property="og:title" content="Marion Plagge - Craniosacraaltherapie voor paarden" />
 	<meta
 		property="og:description"
 		content="craniosacraal-therapie brengt je paard weer in balans en beweging."
