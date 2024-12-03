@@ -4,16 +4,16 @@
 </script>
 
 <svelte:head>
-	<title>Marion Plagge - Craniosacraaltherapie voor paarden</title>
+	<title>Marion Plagge | Craniosacraal-therapie voor paarden</title>
 	<meta property="og:url" content="/" />
-	<meta property="og:title" content="Marion Plagge - Craniosacraaltherapie voor paarden" />
+	<meta property="og:title" content="Marion Plagge | Craniosacraal-therapie voor paarden" />
 	<meta
 		property="og:description"
-		content="craniosacraal-therapie brengt je paard weer in balans en beweging."
+		content="Craniosacraal-therapie brengt je paard weer in balans en beweging."
 	/>
 	<meta
 		name="description"
-		content="craniosacraal-therapie brengt je paard weer in balans en beweging."
+		content="Craniosacraal-therapie brengt je paard weer in balans en beweging."
 	/>
 </svelte:head>
 
