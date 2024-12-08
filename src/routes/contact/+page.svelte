@@ -48,18 +48,19 @@
 					<div class="wsite-section-elements">
 						<div class="paragraph" style="text-align:center;">
 							<font>
-								<span>
+								<span itemscope itemtype="https://schema.org/Person">
 									<strong>
-										MARION PLAGGE<br />
-										Craniosacraaltherapie voor paarden<br /></strong
-									>
+										<span itemprop="name">MARION PLAGGE</span><br />
+										Craniosacraaltherapie voor paarden<br /></strong>
 									<a onclick={goToMap} style="cursor: pointer;">
-										Wateren 10 <br />
-										8438 SB Wateren <br />
+										<div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+										<span itemprop="streetAddress">Wateren 10</span><br />
+										<span itemprop="postalCode">8438 SB</span> <span itemprop="addressLocality">Wateren</span><br />
+										<span itemprop="addressRegion">Drenthe</span><br />
+										</div>
 									</a>
-									<a href="mailto:info@marionplagge.nl" target="_system">info@marionplagge.nl</a><br
-									/>
-									<a href="tel:+31611201579">06-1120 1579</a> <br />
+									<a href="mailto:info@marionplagge.nl" target="_system"  itemprop="email">info@marionplagge.nl</a><br />
+									<a href="tel:+31611201579"><span itemprop="telephone">06-1120 1579</span></a> <br />
 									<span
 										style="
                         display: inline-flex;
@@ -134,27 +135,24 @@
 									<br />
 
 									KvKnr.
-								</span></font
-							><font
-								><span>
+								</span></font><font>
+								<span>
 									<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 									<span class="cell">
-										<a href="https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=719775970000">
+										<a href="https://www.kvk.nl/bestellen/#/71977597000040122778/">
 											7197 7597</a
 										>
 									</span> <br />
 									BTWnr.
-								</span></font
-							><font
-								><span>
+								</span></font><font>
+								<span>
 									<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 									<span class="cell">
 										<a href="https://ec.europa.eu/taxation_customs/vies/#/vat-validation">
 											NL001661848B65</a
 										>
 									</span> <br />
-								</span></font
-							>
+								</span></font>
 						</div>
 						<div class="wsite-spacer" style="height:37px;"></div>
 						<div class="wsite-map" style="text-align: center;">
