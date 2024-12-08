@@ -46,12 +46,12 @@
 				<div class="container">
 					<div class="search"></div>
 					<ul class="wsite-menu-default">
-						<MenuItem href="/" text="craniosacraal" />
-						<MenuItem href="/zouttherapie/" text="zouttherapie" />
-						<MenuItem href="/over-marion/" text="over marion" />
-						<!-- <MenuItem href="/waarom-therapie" text="waarom therapie" /> -->
-						<MenuItem href="/tarieven/" text="tarieven" />
-						<MenuItem href="/contact/" text="contact" />
+						<MenuItem {hideMenu} href="/" text="craniosacraal" />
+						<MenuItem {hideMenu} href="/zouttherapie/" text="zouttherapie" />
+						<MenuItem {hideMenu} href="/over-marion/" text="over marion" />
+						<!-- <MenuItem {hideMenu} href="/waarom-therapie" text="waarom therapie" /> -->
+						<MenuItem {hideMenu} href="/tarieven/" text="tarieven" />
+						<MenuItem {hideMenu} href="/contact/" text="contact" />
 					</ul>
 				</div>
 			</div>
@@ -101,12 +101,12 @@
 	<div class="navmobile-wrapper">
 		<div id="navmobile" class="nav">
 			<ul class="wsite-menu-default">
-				<MenuItem href="/" text="craniosacraal" />
-				<MenuItem href="/zouttherapie/" text="zouttherapie" />
-				<MenuItem href="/over-marion/" text="over marion" />
-				<!-- <MenuItem href="/waarom-therapie" text="waarom therapie" /> -->
-				<MenuItem href="/tarieven/" text="tarieven" />
-				<MenuItem href="/contact/" text="contact" />
+				<MenuItem {hideMenu} href="/" text="craniosacraal" />
+				<MenuItem {hideMenu} href="/zouttherapie/" text="zouttherapie" />
+				<MenuItem {hideMenu} href="/over-marion/" text="over marion" />
+				<!-- <MenuItem {hideMenu} href="/waarom-therapie" text="waarom therapie" /> -->
+				<MenuItem {hideMenu} href="/tarieven/" text="tarieven" />
+				<MenuItem {hideMenu} href="/contact/" text="contact" />
 			</ul>
 		</div>
 	</div>
