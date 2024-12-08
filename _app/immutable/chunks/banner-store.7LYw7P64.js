@@ -1,1 +1,0 @@
-import{w as r}from"./paths.DX99b5id.js";let s=r({title:"",sub_title:"",image:""});function n({title:t,sub_title:e,image:a}){s.update(i=>({...i,title:t||"",sub_title:e||"",image:a||""}))}export{s as b,n as s};
