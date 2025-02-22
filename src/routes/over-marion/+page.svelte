@@ -116,7 +116,7 @@
 							Duitsland<br />
 							<br />
 							<strong>2020</strong><br />
-							Equine Cranium Dissection<br />
+							Equine Cranium Dissection, Maureen Rogers<br />
 							<br />
 							<strong>2019</strong><br />
 							Equine CranioSacral 2, Maureen Rogers<br />
