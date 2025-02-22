@@ -21,32 +21,35 @@
 				<div class="container">
 					<div class="wsite-section-elements">
 						<div class="paragraph">
-							Ik ben een therapeut met een holistische visie. In 2014 ben ik begonnen met de
-							jaaropleiding Bewegingstherapie voor paarden bij Moravita ISHAS. Daarna heb ik in een
-							aantal jaren tijd mijn Sportmassage licentie 4 gehaald bij Massage Hippique. In 2015
-							ben ik gestart met de opleiding craniosacraaltherapie voor paarden bij Maureen Rogers.
-							Inmiddels ben ik Level 3 Equine Craniosacral Therapist. In 2021 Ben ik begonnen bij
-							het Milne instituut met Visionary Craniosacral Work®.<br />
+							Ik ben een therapeut met een holistische visie. In 2014 ben ik begonnen met
+							de jaaropleiding Bewegingstherapie voor paarden bij Moravita ISHAS. Daarna
+							heb ik in een aantal jaren tijd mijn Sportmassage licentie 4 gehaald bij
+							Massage Hippique. In 2015 ben ik gestart met de opleiding
+							craniosacraaltherapie voor paarden bij Maureen Rogers. Inmiddels ben ik
+							Level 3 Equine Craniosacral Therapist. In 2021 Ben ik begonnen bij het
+							Milne instituut met Visionary Craniosacral Work®.<br />
 							<br />
 							<strong>2023</strong><br />
 							<a href="https://milneinstitute.com/cranial-4-c4/"
-								>Cranial 4, Developing the Inner Eye</a
+							>Cranial 4, Developing the Inner Eye</a
 							>, Nicola Dörffling te Hamburg, Duitsland.<br />
 							<a href="https://blauwehengst.nl/dissectie-rug-en-achterhand/"
-								>Dissectie rug en achterhand</a
+							>Dissectie rug en achterhand</a
 							>, <a href="https://blauwehengst.nl/">Blauwe Hengst</a>, Dierenkliniek
 							<a href="https://www.delingehoeve.nl/">Lingehoeve</a>
 							te Lienden.<br />
 							<br />
 							<strong>2022</strong><br />
-							Cranial 1, The Foundation Cranial Class, Nicola Dörffling te Hamburg, Duitsland.<br />
-							Cranial 2, Coupled Holds, Sacral Work and Unwinding, Hugh Milne te Graz, Oostenrijk.<br
-							/>
-							Cranial 3, Practioner’s Skills: Sculpting the Conscious Medium, Hugh Milne te Toscane,
-							Italië.<br />
+							Cranial 1, The Foundation Cranial Class, Nicola Dörffling te Hamburg,
+							Duitsland.<br />
+							Cranial 2, Coupled Holds, Sacral Work and Unwinding, Hugh Milne te Graz,
+							Oostenrijk.<br />
+							Cranial 3, Practioner’s Skills: Sculpting the Conscious Medium, Hugh Milne
+							te Toscane, Italië.<br />
 							<br />
 							<strong>2021</strong><br />
-							Craniosacral Anatomy Milne Institute, Nicola Dörffling te Hamburg, Duitsland<br />
+							Craniosacral Anatomy Milne Institute, Nicola Dörffling te Hamburg,
+							Duitsland<br />
 							<br />
 							<strong>2020</strong><br />
 							Equine Cranium Dissection<br />
@@ -66,16 +69,16 @@
 							Equine Assesment, Maureen Rogers<br />
 							<br />
 							<strong>2017</strong><br />
-							Seminar “Comparative anatomy of Equidae” Sharon May Davis (Faculteit Diergeneeskunde Utrecht)<br
-							/>
+							Seminar “Comparative anatomy of Equidae” Sharon May Davis (Faculteit
+							Diergeneeskunde Utrecht)<br />
 							Functional equine taping, Massage Hippique<br />
 							Intuïtieve massage voor paarden L4, Massage Hippique<br />
 							<br />
 							<strong>2016</strong><br />
 							Seminar “ The missing lamellae” Sharon May Davis<br />
 							Integratieve massage voor paarden L3, Massage Hippique<br />
-							Snijzaal Diergeneeskunde Universiteit Utrecht, voor-midden en achterhand, Massage Hippique<br
-							/>
+							Snijzaal Diergeneeskunde Universiteit Utrecht, voor-midden en achterhand,
+							Massage Hippique<br />
 							<br />
 							<strong>2015</strong><br />
 							Sportmassage voor paarden L1 en L2, Massage Hippique<br />
