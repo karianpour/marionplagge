@@ -2,7 +2,13 @@
 	import { base } from '$app/paths';
 	import Banner from '$lib/Banner.svelte';
 
-	function goToMap() {
+	// Modified by Remko with assistance from OpenAI Codex on 2026-11-24 to make the address link keyboard accessible.
+	const mapUrl = 'https://maps.google.com/maps?daddr=52.905888,6.289712&ll=';
+
+	function goToMap(event) {
+		if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+		event.preventDefault();
+
 		if (
 			navigator.userAgent.match(/Android/i) ||
 			navigator.userAgent.match(/webOS/i) ||
@@ -17,22 +23,23 @@
 		) {
 			window.open('https://maps.apple.com/?daddr=52.905888,6.289712&ll=', '_system');
 		} else {
-			window.open('https://maps.google.com/maps?daddr=52.905888,6.289712&ll=', '_system');
+			window.open(mapUrl, '_system');
 		}
 	}
 </script>
 
+<!-- Modified by Remko with assistance from OpenAI Codex on 2026-11-24 to recover the live contact email. -->
 <svelte:head>
 	<title>Contact - Marion Plagge</title>
 	<meta property="og:url" content="/contact" />
 	<meta property="og:title" content="Contact" />
 	<meta
 		property="og:description"
-		content="Marion Plagge, Wateren 10, 8438 SB Wateren, 06-1120 1579, info@marionplagge.nl"
+		content="Marion Plagge, Wateren 10, 8438 SB Wateren, 06-1120 1579, cranio@freedom.nl"
 	/>
 	<meta
 		name="description"
-		content="Marion Plagge, Wateren 10, 8438 SB Wateren, 06-1120 1579, info@marionplagge.nl"
+		content="Marion Plagge, Wateren 10, 8438 SB Wateren, 06-1120 1579, cranio@freedom.nl"
 	/>
 </svelte:head>
 
@@ -52,14 +59,14 @@
 									<strong>
 										<span itemprop="name">MARION PLAGGE</span><br />
 										Craniosacraaltherapie voor paarden<br /></strong>
-									<a onclick={goToMap} style="cursor: pointer;">
+									<a href={mapUrl} onclick={goToMap} style="cursor: pointer;">
 										<div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
 										<span itemprop="streetAddress">Wateren 10</span><br />
 										<span itemprop="postalCode">8438 SB</span> <span itemprop="addressLocality">Wateren</span><br />
 										<span itemprop="addressRegion">Drenthe</span><br />
 										</div>
 									</a>
-									<a href="mailto:info@marionplagge.nl" target="_system"  itemprop="email">info@marionplagge.nl</a><br />
+									<a href="mailto:cranio@freedom.nl" target="_system"  itemprop="email">cranio@freedom.nl</a><br />
 									<a href="tel:+31611201579"><span itemprop="telephone">06-1120 1579</span></a> <br />
 									<span
 										style="
